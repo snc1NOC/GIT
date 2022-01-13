@@ -1,0 +1,16 @@
+GIT NOTES: 
+
+CREATING REPO 
+
+
+SYNCHING REPOS 
+
+MAKING CHANGES 
+git status   - tells you which files are added to index and are ready to commit
+git add - lets you add files to your index 
+git commit  - recording snapshots of the repository at a given time / commited snapshots will never change unless done explicitly
+
+
+PARALLES DEVELOPMENT -> Branching -> Merging -> Rebasing 
+
+
